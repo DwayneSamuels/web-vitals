@@ -1,4 +1,4 @@
-# `web-vitals`
+# Web Vitals
 
 - [Overview](#overview)
 - [Install and load the library](#installation)
